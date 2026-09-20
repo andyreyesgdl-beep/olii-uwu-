@@ -1,0 +1,21 @@
+ <!DOCTYPE html>
+ <html>
+ <head>
+     <title>Para ti mi vida 💗</title>
+     <style>
+        body {
+            background-color: lightblue;
+            text-align:center;
+        }
+        button {
+            padding: 10px;
+            font-size: 20px;
+        } 
+        </style>
+        </head> 
+    </body>
+    <h1>Hice algo para ti omaika si uwu</h1>
+    <p>Te amo mucho 🐰</p>
+    <button onclick="alert('sabias ke estas bien wapa miamor teamo solo eso bai 💘')">Presiona aqui oksi</button>
+</body>
+</html>
